@@ -1,2 +1,2 @@
-# sql-data-analysis-portfolio
-A collection of SQL projects demonstrating my hands-on data analysis skills.
+# Hotel-Booking-data-analysis
+An SQL-Tableau project demonstrating my hands-on data analysis skills.
