@@ -9,7 +9,7 @@ This analysis provides insights that can help hotels:
 - Optimize revenue through better channel management
 - Identify seasonal demand patterns for pricing strategies
 - Improve customer retention through targeted loyalty programs
-- 
+
 ### Dataset
 - Source: Kaggle – [Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)  
 - Description: This dataset contains booking information for a city hotel and a resort hotel, including booking dates, customer segments, and revenue-related metrics.
